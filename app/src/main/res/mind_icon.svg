@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229" height="119" viewBox="0 0 229 119">
+    <g fill="none" fill-rule="evenodd" stroke="#1F314A" stroke-width="3">
+        <g stroke-linecap="round" stroke-linejoin="round">
+            <path d="M34.74 51.21V33.5" transform="translate(2 2) translate(156 19)"/>
+            <path fill-rule="nonzero" d="M0 0L69.48 0 69.48 33 0 33z" transform="translate(2 2) translate(156 19)"/>
+            <path d="M13.98 32.82V.26M27.72 32.82V.26M41.45 32.82V.26M69.48 16.47H.37" transform="translate(2 2) translate(156 19)"/>
+            <path fill-rule="nonzero" d="M29 47.46H40.5V58.34H29z" transform="translate(2 2) translate(156 19)"/>
+            <path d="M55.19 32.82V.26" transform="translate(2 2) translate(156 19)"/>
+        </g>
+        <g fill-rule="nonzero">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M0 34.65L54.38.39 108.75 34.65zM22.9 47.18L33.92 47.18 33.92 105.56 22.9 105.56zM48.87 47.18L59.89 47.18 59.89 105.56 48.87 105.56zM74.62 47.18L85.64 47.18 85.64 105.56 74.62 105.56z" transform="translate(2 2)"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21.11 95.9L35.7 95.9 35.7 105.56 21.11 105.56zM47.08 95.9L61.67 95.9 61.67 105.56 47.08 105.56zM47.08 47.18L61.67 47.18 61.67 56.84 47.08 56.84zM72.84 95.9L87.43 95.9 87.43 105.56 72.84 105.56z" transform="translate(2 2)"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M.15 105.55L109.6 105.55 109.6 115.21.15 115.21zM72.84 47.18L87.43 47.18 87.43 56.84 72.84 56.84zM7.44 34.94L101.3 34.94 101.3 47.17 7.44 47.17z" transform="translate(2 2)"/>
+            <path d="M7.44 47.18H101.3V105.56H7.44z" transform="translate(2 2)"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21.11 47.18L35.7 47.18 35.7 56.84 21.11 56.84z" transform="translate(2 2)"/>
+        </g>
+    </g>
+</svg>

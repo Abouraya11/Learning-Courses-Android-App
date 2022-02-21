@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Leado</string>
+    <string name="sign_up">Don\'t have an account yet? <u>Sign Up</u></string>
+    <string name="title_activity_homepage">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="do_not_wait_the_time_will_never_be_just_right_start_where_you_stand_and_work_with_whatever_tools_you_may_have_at_your_command_and_better_tools_will_be_found_as_you_go_along_george_herbert">“Do not wait; the time will never be ‘just right.’ Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.” —George Herbert</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up_underlined"><u>Sign Up</u></string>
+    <string name="lesson_desc">There are two main reasons why personal branding is becoming a core part of our culture. Sadly, it’s nothing revolutionary! First, we are all being judged all the time, even when we’re sleeping (our online profiles are still up!). Second, we have to constantly sell our ideas to teachers, managers, venture capitalists, our friends and family, to make things happen in our lives. We have to convince them to take action.</string>
+</resources>
